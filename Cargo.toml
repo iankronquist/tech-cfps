@@ -2,3 +2,5 @@
 name = "tech-cfps"
 version = "0.1.0"
 authors = ["Ian Kronquist <iankronquist@gmail.com>"]
+[dependencies]
+iron = "0.1.20"
